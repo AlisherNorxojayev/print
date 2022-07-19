@@ -1,3 +1,5 @@
 void main() {
-    print("hello worls");
+    print("  )");
+    print(" (");
+    print("[_])");
 }
